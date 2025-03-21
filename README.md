@@ -1,6 +1,6 @@
-# 💫 About Me:
-I'm a Software Engineering student at National University of San Marcos
-
+# 💫 Hello!, I'm Andre, a peruvian Software Engineer:
+📙 Currently studying Software Engineering at National University of San Marcos
+💻 Working on my own projects
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andremelc) 
