@@ -1,5 +1,5 @@
 # 💫 Hello!, I'm Andre, a peruvian Software Engineer:
-📙 Currently studying Software Engineering at National University of San Marcos
+📙 Currently studying Software Engineering at National University of San Marcos    
 💻 Working on my own projects
 
 ## 🌐 Socials:
